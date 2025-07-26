@@ -1,0 +1,5 @@
+title,duration,professor,room,quota,expectedInfo
+Performance,100,Juan Perez,Room 101,40,"[On Site] Performance (100 hs) - Professor: Juan Perez - Room: Room 101, Quota: 40"
+Automatizacion,120,Maria Gomez,Room 202,35,"[On Site] Automatizacion (120 hs) - Professor: Maria Gomez - Room: Room 202, Quota: 35"
+Testing,60,Camila Rivas,Aula 3,25,"[On Site] Testing (60 hs) - Professor: Camila Rivas - Room: Aula 3, Quota: 25"
+Programación,75,Laura Taboada,Aula 12,18,"[On Site] Programación (75 hs) - Professor: Laura Taboada - Room: Aula 12, Quota: 18"
