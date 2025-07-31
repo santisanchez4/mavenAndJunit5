@@ -6,6 +6,9 @@ public class Course {
     private String professor;
 
     public Course(String title, int duration, String professor) {
+        if (professor == null) {
+            throw new NullPointerException("Professor can't be null");
+        }
         this.title = title;
         this.duration = duration;
         this.professor = professor;
